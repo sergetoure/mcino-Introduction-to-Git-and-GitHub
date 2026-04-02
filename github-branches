@@ -1,3 +1,4 @@
 sergetoure@MacBookPro mcino-Introduction-to-Git-and-GitHub % git branch -vv
-* bug-fix-revert a5728fc Merge branch 'main' into bug-fix-revert
+  bug-fix-revert a5728fc Merge branch 'main' into bug-fix-revert
+* bug-fix-typo   a5728fc Merge branch 'main' into bug-fix-revert
   main           a94494d [origin/main: ahead 2] Merge branch 'main' of https://github.com/sergetoure/mcino-Introduction-to-Git-and-GitHub
