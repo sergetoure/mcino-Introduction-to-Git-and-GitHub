@@ -1,6 +1,4 @@
-% git clone https://github.com/sergetoure/mcino-Introduction-to-Git-and-GitHub.git
-Cloning into 'mcino-Introduction-to-Git-and-GitHub'...
-remote: Enumerating objects: 35, done.
-remote: Total 35 (delta 0), reused 0 (delta 0), pack-reused 35 (from 1)
-Receiving objects: 100% (35/35), 17.29 KiB | 1.73 MiB/s, done.
-Resolving deltas: 100% (7/7), done.
+sergetoure@MacBookPro mcino-Introduction-to-Git-and-GitHub % curl -s https://api.github.com/repos/sergetoure/mcino-Introduction-to-Git-and-GitHub | jq -r '.parent.clone_url'
+
+https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.git
+sergetoure@MacBookPro mcino-Introduction-to-Git-and-GitHub % 
