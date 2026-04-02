@@ -1,0 +1,4 @@
+sergetoure@MacBookPro mcino-Introduction-to-Git-and-GitHub % curl -s https://api.github.com/repos/sergetoure/mcino-Introduction-to-Git-and-GitHub | jq -r '.parent.clone_url'
+
+https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.git
+sergetoure@MacBookPro mcino-Introduction-to-Git-and-GitHub % 
